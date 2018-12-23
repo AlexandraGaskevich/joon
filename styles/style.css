@@ -20,7 +20,7 @@
   .menu ul{
     position: relative;
     font-size: 20px;
-    font-family: A DAY WITHOUT SUN, sans-serif;
+    font-family: A-day-without-sun-trial, sans-serif;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -51,7 +51,7 @@
 
   .top h1 {
     font-size: 45px;
-    font-family: Katona III UltraLight, sans-serif;
+    font-family: Katona-III, sans-serif;
     color: white;
     margin-top: -90px;
     text-align: center;
@@ -59,7 +59,7 @@
 
   .top h2 {
     font-size: 20px;
-    font-family: A DAY WITHOUT SUN, sans-serif;
+    font-family: A-day-without-sun-trial, sans-serif;
     color: white;
     text-align: center;
     letter-spacing: 2px;
@@ -68,7 +68,7 @@
   .top-info {
     padding-top: 50px;
     font-size: 21px;
-    font-family: A DAY WITHOUT SUN, sans-serif;
+    font-family: A-day-without-sun-trial, sans-serif;
     text-align: center;
     letter-spacing: 2px;
   }
@@ -81,7 +81,7 @@
   .info h1 {
     font-size: 57px;
     color: white;
-    font-family: Katona III UltraLight, sans-serif;
+    font-family: Katona-III, sans-serif;
     padding-top: 180px;
     text-align: center;
 
@@ -93,7 +93,7 @@
     padding-top: 50px;
     font-size: 20px;
     color: white;
-    font-family: A DAY WITHOUT SUN, sans-serif;
+    font-family: A-day-without-sun-trial, sans-serif;
     letter-spacing: 2px;
 
   }
@@ -126,7 +126,7 @@
     padding-top: 50px;
     font-size: 21px;
     color: white;
-    font-family: A DAY WITHOUT SUN, sans-serif;
+    font-family: A-day-without-sun-trial, sans-serif;
     letter-spacing: 2px;
   }
 
@@ -140,7 +140,7 @@
 
   .who h1 {
     font-size: 200px;
-    font-family: Katona III UltraLight, sans-serif;
+    font-family: Katona-III, sans-serif;
     padding-top: 60px;
     text-align: center;
   }
@@ -148,14 +148,14 @@
   .who h2 {
     margin-top: -10px;
     font-size: 43px;
-    font-family: Katona III UltraLight, sans-serif;
+    font-family: Katona-III, sans-serif;
     text-align: center;
   }
 
   .who p {
     padding-top: 10px;
     font-size: 21px;
-    font-family: A DAY WITHOUT SUN, sans-serif;
+    font-family: A-day-without-sun-trial, sans-serif;
     text-align: center;
     letter-spacing: 2px;
   }
@@ -209,7 +209,7 @@
     padding-top: 30px;
     font-size: 57px;
     color: white;
-    font-family: A DAY WITHOUT SUN, sans-serif;
+    font-family: A-day-without-sun-trial, sans-serif;
     text-align: center;
     letter-spacing: 2px;
   }
