@@ -1,0 +1,220 @@
+@import "reset.css";
+@import "fonts.css";
+
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (min-width: 320px) {
+
+  body {
+    background-color: white;
+  }
+
+  .menu {
+    padding-top: 30px;
+  }
+
+  .menu ul{
+    position: relative;
+    font-size: 20px;
+    font-family: A DAY WITHOUT SUN, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 9.375vw;
+    padding-right: 9.375vw;
+    letter-spacing: 2px;
+  }
+
+  a {
+    color: #4E5131;
+    text-decoration: none;
+  }
+
+  .hover {
+    opacity: 0.7;
+  }
+
+  .hover:hover {
+    opacity: 1;
+  }
+
+  .forest {
+    padding-top: 30px;
+    padding-left: 35px;
+    width: 250px;
+    height: 93.75vw;
+  }
+
+  .top h1 {
+    font-size: 45px;
+    font-family: Katona III UltraLight, sans-serif;
+    color: white;
+    margin-top: -90px;
+    text-align: center;
+  }
+
+  .top h2 {
+    font-size: 20px;
+    font-family: A DAY WITHOUT SUN, sans-serif;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+
+  .top-info {
+    padding-top: 50px;
+    font-size: 21px;
+    font-family: A DAY WITHOUT SUN, sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+
+  .info {
+    margin-top: -160px;
+    background-color: #575B4A;
+  }
+
+  .info h1 {
+    font-size: 57px;
+    color: white;
+    font-family: Katona III UltraLight, sans-serif;
+    padding-top: 180px;
+    text-align: center;
+
+  }
+
+  .info-p {
+    width: 260px;
+    padding-left: 9.375vw;
+    padding-top: 50px;
+    font-size: 20px;
+    color: white;
+    font-family: A DAY WITHOUT SUN, sans-serif;
+    letter-spacing: 2px;
+
+  }
+
+  .info-p .second {
+    padding-top: 30px;
+  }
+
+  .info-p .third {
+    padding-top: 30px;
+  }
+
+  .divider2 {
+    padding-top: 70px;
+  }
+
+  .joon {
+    background-color: #575B4A;
+    padding-bottom: 160px;
+  }
+
+  .joon1 {
+    padding-top: 30px;
+    padding-left:130px;
+  }
+
+  .joon-p {
+    width: 260px;
+    padding-left: 9.375vw;
+    padding-top: 50px;
+    font-size: 21px;
+    color: white;
+    font-family: A DAY WITHOUT SUN, sans-serif;
+    letter-spacing: 2px;
+  }
+
+  .joon-p .second {
+    padding-top: 30px;
+  }
+
+  .divider3 {
+      margin-top: -160px;
+  }
+
+  .who h1 {
+    font-size: 200px;
+    font-family: Katona III UltraLight, sans-serif;
+    padding-top: 60px;
+    text-align: center;
+  }
+
+  .who h2 {
+    margin-top: -10px;
+    font-size: 43px;
+    font-family: Katona III UltraLight, sans-serif;
+    text-align: center;
+  }
+
+  .who p {
+    padding-top: 10px;
+    font-size: 21px;
+    font-family: A DAY WITHOUT SUN, sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+
+  .one {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .image-one {
+    padding-bottom: 20px;
+    padding-left: 60px;
+  }
+
+  .two {
+    padding-bottom: 80px;
+  }
+
+  .image-two {
+    padding-bottom: 20px;
+    padding-left: 60px;
+  }
+
+  .three {
+    padding-bottom: 80px;
+  }
+
+  .image-three {
+    padding-bottom: 20px;
+    padding-left: 60px;
+  }
+
+  .four {
+    padding-bottom: 80px;
+  }
+
+  .image-four {
+    padding-bottom: 20px;
+    padding-left: 60px;
+  }
+
+  .divider4 {
+    margin-top: 10px;
+  }
+
+  .secrets {
+    background-color: #575B4A;
+  }
+
+  .secrets h1 {
+    padding-top: 30px;
+    font-size: 57px;
+    color: white;
+    font-family: A DAY WITHOUT SUN, sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+
+  .divider5 {
+    margin-top: -1px;
+  }
+}
